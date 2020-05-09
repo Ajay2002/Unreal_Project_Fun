@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Unreal_Project.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\Unreal_ProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\Unreal_Project.cpp.obj"
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\Unreal_ProjectGameModeBase.cpp.obj"
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\Unreal_Project.init.gen.cpp.obj"
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\Unreal_ProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\Default.rc2.res"
+/OUT:"C:\Users\Ajay\Documents\GitHub\Unreal_Project_Fun\Unreal_Project\Intermediate\Build\Win64\UE4Editor\Development\Unreal_Project\UE4Editor-Unreal_Project.lib"
+/INCLUDE:IMPLEMENT_MODULE_Unreal_Project
